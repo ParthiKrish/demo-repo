@@ -5,4 +5,4 @@ CREATE TABLE HELLO_WORLD
   ,LAST_NAME VARCHAR
 );
 
-alter table HELLO_WORLD add company varchar(100);
+alter table DEMO.HELLO_WORLD add company varchar(100);
